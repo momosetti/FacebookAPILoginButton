@@ -1,15 +1,13 @@
-import React, { Component } from 'react';
-import './App.css';
-import Facebook from './Components/facebook'
+import React, { Component } from "react";
+import Facebook from "./Components/facebook";
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
-          <h1>hello</h1>
-          <Facebook />
-        </header>
+        <h1>Facebook API Login using React</h1>
+        <p>Click to see what can this button do !</p>
+        <Facebook />
       </div>
     );
   }
