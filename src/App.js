@@ -6,7 +6,6 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Facebook API Login using React</h1>
-        <p>Click to see what can this button do !</p>
         <Facebook />
       </div>
     );

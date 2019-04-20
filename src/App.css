@@ -1,44 +1,18 @@
 body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: white;
   background: url(https://i.imgur.com/L6CzgSG.jpg) no-repeat center center fixed;
 }
 
 h1 {
-  margin: .7rem 0rem .7rem 0rem
-}
-
-.App {
+  margin: .7rem 0rem .7rem 0rem;
   text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 20vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(360deg);
-  }
 }
 
 .card {
@@ -93,5 +67,9 @@ h1 {
   font-size: 12px;
   letter-spacing: 2px;
   text-transform: uppercase;
+  text-align: center;
+}
+
+.btn {
   text-align: center;
 }

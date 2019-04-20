@@ -41,13 +41,16 @@ class Facebook extends Component {
       );
     } else {
       fbconnect = (
-        <FacebookLogin
-          appId="2297031330510811"
-          autoLoad={true}
-          fields="name,email,picture"
-          onClick={this.componentClicked}
-          callback={this.responseFacebook}
-        />
+        <div className="btn">
+          <p>Click to see what can this button do !</p>
+          <FacebookLogin
+            appId="2297031330510811"
+            autoLoad={true}
+            fields="name,email,picture"
+            onClick={this.componentClicked}
+            callback={this.responseFacebook}
+          />
+        </div>
       );
     }
     return <div>{fbconnect}</div>;
