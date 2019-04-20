@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/FacebookAPILoginButton/precache-manifest.a9f8c9b867c07c21fe53292d89ba908a.js"
+  "/FacebookAPILoginButton/precache-manifest.5e996d7ed2ce9a3ca810e970fd35e654.js"
 );
 
 workbox.clientsClaim();

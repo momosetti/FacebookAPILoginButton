@@ -1,13 +1,13 @@
 {
-  "main.css": "/FacebookAPILoginButton/static/css/main.71de0ca0.chunk.css",
-  "main.js": "/FacebookAPILoginButton/static/js/main.6b876cb9.chunk.js",
-  "main.js.map": "/FacebookAPILoginButton/static/js/main.6b876cb9.chunk.js.map",
+  "main.css": "/FacebookAPILoginButton/static/css/main.026b6b46.chunk.css",
+  "main.js": "/FacebookAPILoginButton/static/js/main.187a3695.chunk.js",
+  "main.js.map": "/FacebookAPILoginButton/static/js/main.187a3695.chunk.js.map",
   "runtime~main.js": "/FacebookAPILoginButton/static/js/runtime~main.7d62555a.js",
   "runtime~main.js.map": "/FacebookAPILoginButton/static/js/runtime~main.7d62555a.js.map",
   "static/js/2.8412fda2.chunk.js": "/FacebookAPILoginButton/static/js/2.8412fda2.chunk.js",
   "static/js/2.8412fda2.chunk.js.map": "/FacebookAPILoginButton/static/js/2.8412fda2.chunk.js.map",
   "index.html": "/FacebookAPILoginButton/index.html",
-  "precache-manifest.a9f8c9b867c07c21fe53292d89ba908a.js": "/FacebookAPILoginButton/precache-manifest.a9f8c9b867c07c21fe53292d89ba908a.js",
+  "precache-manifest.5e996d7ed2ce9a3ca810e970fd35e654.js": "/FacebookAPILoginButton/precache-manifest.5e996d7ed2ce9a3ca810e970fd35e654.js",
   "service-worker.js": "/FacebookAPILoginButton/service-worker.js",
-  "static/css/main.71de0ca0.chunk.css.map": "/FacebookAPILoginButton/static/css/main.71de0ca0.chunk.css.map"
+  "static/css/main.026b6b46.chunk.css.map": "/FacebookAPILoginButton/static/css/main.026b6b46.chunk.css.map"
 }
