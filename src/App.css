@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-  margin: .7rem 0rem .7rem 0rem;
+  margin: 0.7rem 0rem 0.7rem 0rem;
   text-align: center;
 }
 
@@ -34,7 +34,7 @@ h1 {
 
 .card .card-body {
   position: relative;
-  color: white
+  color: white;
 }
 
 .card .card-body img {

@@ -10,7 +10,6 @@ class Facebook extends Component {
     pic: ""
   };
   componentClicked = () => console.log("Clicked!!");
-
   responseFacebook = res => {
     this.setState({
       isLogin: true,
@@ -31,11 +30,7 @@ class Facebook extends Component {
           <div className="card-body">
             <img src={this.state.pic} alt="profile" />
             <div className="name">{this.state.name}</div>
-            <codee>{this.state.email}</codee>
-            <div className="description">
-              Front-end developer, ice hockey goalie, not a father
-            </div>
-            <div className="location">Washington DC</div>
+            <code>{this.state.email}</code>
           </div>
         </div>
       );
