@@ -1,3 +1,4 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/momosetti/FacebookAPILoginButton/badge.svg)](https://snyk.io/test/github/momosetti/FacebookAPILoginButton)
 # Facebook API Login using React
 Simple minimal app shows you how we could deal with Facebook API
 # How to use it:
