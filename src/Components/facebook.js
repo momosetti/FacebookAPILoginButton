@@ -27,7 +27,7 @@ class Facebook extends Component {
       fbconnect = (
         <div className="card">
           <div className="card-header" />
-          <div className="card-body">
+          <div className="card-body" style={{textAlign: center}}>
             <img src={this.state.pic} alt="profile" />
             <div className="name">{this.state.name}</div>
             <code>{this.state.email}</code>
