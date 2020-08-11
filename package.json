@@ -6,7 +6,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-facebook-login": "^4.1.1",
-    "react-scripts": "3.3.0",
+    "react-scripts": "3.4.2",
     "snyk": "^1.298.1"
   },
   "scripts": {
